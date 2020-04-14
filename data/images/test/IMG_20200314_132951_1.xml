@@ -1,0 +1,50 @@
+<annotation>
+	<folder>bizim fotolar</folder>
+	<filename>IMG_20200314_132951_1.jpg</filename>
+	<path>C:\Users\ahmet\OneDrive\Masaüstü\bizim fotolar\IMG_20200314_132951_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5120</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2093</xmin>
+			<ymin>2258</ymin>
+			<xmax>2322</xmax>
+			<ymax>2816</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2368</xmin>
+			<ymin>2208</ymin>
+			<xmax>2589</xmax>
+			<ymax>2712</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2651</xmin>
+			<ymin>2299</ymin>
+			<xmax>2872</xmax>
+			<ymax>2824</ymax>
+		</bndbox>
+	</object>
+</annotation>
